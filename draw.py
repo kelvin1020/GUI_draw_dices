@@ -29,9 +29,13 @@ def choice(event):
 	dtn.SetFont(font)
 
 
-
+#mac
 #conda install python.app
 #pythonw *.py
+
+#linux
+#conda install wxpython
+#python *.py
 
 import wx
 app = wx.App()
